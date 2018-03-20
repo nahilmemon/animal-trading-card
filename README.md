@@ -1,0 +1,2 @@
+# Animal Trading Card
+This project is the result of adding some CSS to some given basic HTML based on a design prototype mockup. This project was completed as a part of the Front-end Nanodegree by Udacity.
